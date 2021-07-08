@@ -1,0 +1,10 @@
+bahamut.com.tw
+p2.bahamut.com.tw
+data.flurry.com
+gamer-cds.cdn.hinet.net
+gamer2-cds.cdn.hinet.net
+gamer3-cds.cdn.hinet.net
+gamer.com.tw
+ani.gamer.com.tw
+api.gamer.com.tw
+user.gamer.com.tw
