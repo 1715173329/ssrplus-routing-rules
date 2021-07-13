@@ -1,4 +1,5 @@
 bahamut.com.tw
+i2.bahamut.com.tw
 p2.bahamut.com.tw
 data.flurry.com
 gamer-cds.cdn.hinet.net
